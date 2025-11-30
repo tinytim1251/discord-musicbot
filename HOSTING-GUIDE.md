@@ -62,3 +62,4 @@ The bot **cannot run if your PC is off**. To keep it online 24/7, you need:
 
 The bot already has reconnection logic, so it will stay online as long as the computer/server it's running on stays on.
 
+
